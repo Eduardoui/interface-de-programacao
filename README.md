@@ -13,6 +13,6 @@ Salvamento e carregamento automático em arquivo.txt;
  Estrutura:
   bash
 interface_de_programação/
---> interface.c        //Código-fonte principal
---> relatos.txt        //Arquivo de dados salvo automaticamente
---> README.md          //Este arquivo
+--> interface.c        (Código-fonte principal)
+--> relatos.txt        (Arquivo de dados salvo automaticamente)
+--> README.md          (Este arquivo)
